@@ -32,7 +32,7 @@ for each collector.
 ## Config File: config.yaml
 
 The configuration file `config.yaml` are used now to collect the information you want (pre-processed on steps bellow). 
-The default configuration are below:
+The default configuration:
 
 ```
 k_origins: 2
